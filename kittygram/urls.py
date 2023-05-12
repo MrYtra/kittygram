@@ -6,4 +6,3 @@ urlpatterns = [
    path('cats/', cat_list),
 ]
 
-
